@@ -25,6 +25,7 @@ Client -> NGINX -> app1 / app2 -> Redis
 Demo
 
 Example of load balancing between two app instances:
+![Demo](docs/demo.jpg)
 
 Services
 app1 / app2
@@ -65,4 +66,3 @@ Shared state using Redis
 Notes
 
 This is a local lab project intended for learning containerization and basic DevOps patterns.
-<img width="639" height="310" alt="image" src="https://github.com/user-attachments/assets/2cc556e2-47be-4210-af9f-4dece7fea187" />
