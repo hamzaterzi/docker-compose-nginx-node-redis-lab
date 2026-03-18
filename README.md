@@ -1,6 +1,10 @@
 # Docker Compose NGINX + Node.js + Redis Lab
 
-This project is a hands-on Docker lab that demonstrates how to build and run a multi-container application using Docker Compose, NGINX, Node.js, and Redis.
+## 🚀 Demo Overview
+
+This project demonstrates a simple load balancing setup using NGINX in front of two Node.js application instances, with Redis as a shared state backend.
+
+It is a hands-on Docker lab focused on building and running a multi-container application using Docker Compose, NGINX, Node.js, and Redis.
 
 ## Project Goal
 
