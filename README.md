@@ -22,8 +22,7 @@ Both application containers use Redis as a shared backend to store the visit cou
 
 ```text
 Client -> NGINX -> app1 / app2 -> Redis
-Demo
-
+```
 Example of load balancing between two app instances:
 
 ![Demo](docs/demo.jpg)
