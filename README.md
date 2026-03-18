@@ -25,6 +25,7 @@ Client -> NGINX -> app1 / app2 -> Redis
 Demo
 
 Example of load balancing between two app instances:
+
 ![Demo](docs/demo.jpg)
 
 Services
